@@ -6,7 +6,7 @@ This repository is dedicated to my personal challenge of solving at least one DS
 
 ## Structure
 ### Days Completed:
-• Day 1: 
+• [Day 1: Two Sum](./day1/) - *23/12/2023*
 
 
 ### Additional Resources:
