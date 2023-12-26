@@ -6,7 +6,10 @@ This repository is dedicated to my personal challenge of solving at least one DS
 
 ## Structure
 ### Days Completed:
-• [Day 1: Two Sum](./day1/) - *23/12/2023*
+• [Day 1: Two Sum](./day1/) - *23/12/2023*  
+• [Day 2: Remove Duplicates from Sorted Array](./day2/) - *24/12/2023*  
+• [Day 3: Remove Element](./day3/) - *25/12/2023*  
+• [Day 4: Is Palindrome Number](./day4/) - *26/12/2023*  
 
 
 ### Additional Resources:
